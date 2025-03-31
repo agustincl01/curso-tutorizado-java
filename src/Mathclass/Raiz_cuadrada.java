@@ -1,5 +1,3 @@
-package Mathclass;
-
 public class Raiz_cuadrada {
     public static void main(String[] args) {
         int numero = 9;

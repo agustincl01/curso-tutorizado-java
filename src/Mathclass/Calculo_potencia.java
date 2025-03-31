@@ -1,5 +1,3 @@
-package Mathclass;
-
 public class Calculo_potencia {
     public static void main(String[] args) {
         int base = 5;
